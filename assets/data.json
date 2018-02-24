@@ -1,0 +1,14 @@
+{
+    "plan": {
+      "planNumber": "12345",
+      "planName": "ADP",
+      "balances": {
+        "totalAccountBalance": "122345.0334",
+        "loanBalance": "10234.1",
+        "forfeitureBalance": 2045
+       },
+      "planPerformance": 55.55,
+      "EBABalance" : 3283.045
+     }
+   }
+   
